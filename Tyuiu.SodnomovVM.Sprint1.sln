@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SodnomovVM.Sprint1.Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SodnomovVM.Sprint1.Task4.V29.Lib", "Tyuiu.SodnomovVM.Sprint1.Task4.V29.Lib\Tyuiu.SodnomovVM.Sprint1.Task4.V29.Lib.csproj", "{68C71CC4-083D-4165-8A90-C44E2895F4BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SodnomovVM.Sprint1.Task5.V1", "Tyuiu.SodnomovVM.Sprint1.Task5.V1\Tyuiu.SodnomovVM.Sprint1.Task5.V1.csproj", "{A7728EA0-2EE9-4F03-9570-5BDDB20DAB4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -115,6 +117,10 @@ Global
 		{68C71CC4-083D-4165-8A90-C44E2895F4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68C71CC4-083D-4165-8A90-C44E2895F4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68C71CC4-083D-4165-8A90-C44E2895F4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7728EA0-2EE9-4F03-9570-5BDDB20DAB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7728EA0-2EE9-4F03-9570-5BDDB20DAB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7728EA0-2EE9-4F03-9570-5BDDB20DAB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7728EA0-2EE9-4F03-9570-5BDDB20DAB4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
